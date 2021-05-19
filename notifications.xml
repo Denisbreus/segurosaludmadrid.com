@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="io.zhile.research.ide-eval-resetter" playSound="true" />
-  </component>
-</application>
